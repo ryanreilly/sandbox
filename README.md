@@ -1,0 +1,1 @@
+This is a small project where I am starting from scratch and creating a few files for my sandbox repository. Git practice!
